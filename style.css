@@ -5,7 +5,7 @@
 }
 
 :root {
-    --main-color: #a4cdf8;
+    --main-color: #008000;
     --bg-color: rgb(15, 129, 236); /* Change, and paste inner values below */
     --bg-color: 15, 129, 236; /* Needs to be in this format, so opacity can be controlled individually */
     --bg-color-2: rgba(15, 129, 236, 0.663);
